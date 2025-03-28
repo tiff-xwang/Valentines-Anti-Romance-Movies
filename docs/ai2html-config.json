@@ -1,0 +1,24 @@
+{
+    "fonts": [
+      {
+        "aifont": "Georgia",
+        "family": "Georgia, 'Times New Roman', Times, serif",
+        "weight": "normal",
+        "style": ""
+      },
+      {
+        "aifont": "ArialMT",
+        "family": "arial, helvetica, sans-serif",
+        "weight": "normal",
+        "style": ""
+      }
+    ],
+    "styles": [
+      {
+        "selectors": ".g-pstyle0, .g-pstyle2, #g-ai0-19, .x-axis-label, .axis-label",
+        "style": {
+          "font-family": "Georgia, 'Times New Roman', Times, serif"
+        }
+      }
+    ]
+  }
