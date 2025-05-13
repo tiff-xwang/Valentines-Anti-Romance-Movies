@@ -13,5 +13,5 @@ In order to decide which movies out of all the romance movies were anti-romance,
 <br></br>
 The analysis went on from there. Read my analysis code [here](Movies.ipynb).
 
-##
-
+## Findings
+There is indeed an upshot in anti-romance movies. They advocate for singleness, discuss topics like egg freezing, or make a serial killer who only hunts after couples! The traditional kinds of romance movies, like meet-cute and heterosexual marriage, are gradually fading out of the market.
